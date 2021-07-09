@@ -1,16 +1,6 @@
+h1,h2,h3,h4{background-color: yellow;
+    border-style: solid;
+    opacity:4 percent;
 
-dt{
-    font-size: large;
-    font-style: oblique;
-    border-radius: round
-    ;
-    -webkit-border-radius: round;
-    -moz-border-radius: round;
-    -ms-border-radius: round;
-    -o-border-radius: round;
-    border-style: dotted;
-    background-color: rgba(0, 139, 139, 0.295);
-    opacity: 10;
 }
-
-.pone{background-color: tomato;}
+head{font-size: 50px;}
