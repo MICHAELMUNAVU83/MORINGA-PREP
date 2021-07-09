@@ -14,38 +14,35 @@ p{ font-family: sans-serif;
 
 
 }
-.interests{
-    padding-top: 10px;
+
+.int{float: left;}
+
+
+.foot{float: right;}
+
+.interests{ margin: 20px;
+
+
 
 }
+.bukayo{
 
-#col1{
-    background-color: violet;
+
     float: left;
-    width:  10px;
-    height: 120px;
-    padding-right: 30px;
-    margin-right: 30px;
-
-
-}
-
-#col2{ background-color: yellowgreen;
-    float: center;
-
-
 }
 
 
-#col3{ background-color: tomato;
-    float: right;
+
+
+
+
+
+
+.background{padding-bottom: 15px;
+    background-color: plum;
+    opacity: 100px;
 
 
 }
-.column{
-    width: 400x;
-    height: 170px;
-}
-
 
 
