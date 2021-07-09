@@ -16,6 +16,22 @@ p{ font-family: sans-serif;
 }
 .interests{
     padding-top: 10px;
-    
+
+}
+
+#col1{
+    background-color: violet;
+
+}
+
+#col2{ background-color: yellowgreen;}
+
+
+#col3{ background-color: tomato;}
+
+.column{ width: 200 px;
+    height: 400px;
+
+
 }
 
