@@ -21,17 +21,31 @@ p{ font-family: sans-serif;
 
 #col1{
     background-color: violet;
-
-}
-
-#col2{ background-color: yellowgreen;}
-
-
-#col3{ background-color: tomato;}
-
-.column{ width: 200 px;
-    height: 400px;
+    float: left;
+    width:  10px;
+    height: 120px;
+    padding-right: 30px;
+    margin-right: 30px;
 
 
 }
+
+#col2{ background-color: yellowgreen;
+    float: center;
+
+
+}
+
+
+#col3{ background-color: tomato;
+    float: right;
+
+
+}
+.column{
+    width: 400x;
+    height: 170px;
+}
+
+
 
