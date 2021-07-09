@@ -25,12 +25,14 @@ p{ font-family: sans-serif;
 
 
 }
-.bukayo{
+.bukayos{ float: right;
 
+flex-direction: column;}
 
+.cards{
     float: left;
+    flex-direction: column;
 }
-
 
 .why{background-color: rgb(51, 83, 245);}
 
