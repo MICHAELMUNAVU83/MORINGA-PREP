@@ -36,6 +36,11 @@ flex-direction: column;}
 
 .why{background-color: rgb(51, 83, 245);}
 
+*{ background-image:url(paint.jpeg);
+    opacity: 50px;
+
+
+}
 
 
 
