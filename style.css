@@ -1,8 +1,13 @@
-h1,h2,h3,h4{background-color: yellow;
+h1,h2,h3,h4{
+    background-color: yellow;
     border-style: solid;
+    border-radius:50px ;
     opacity:4 percent;
     font-size: 20 px;
-
+    -webkit-border-radius:50px ;
+    -moz-border-radius:50px ;
+    -ms-border-radius:50px ;
+    -o-border-radius:50px ;
 }
 head{font-size: 50px;}
 
@@ -36,8 +41,10 @@ flex-direction: column;}
 
 .why{background-color: rgb(51, 83, 245);}
 
-*{ background-image:url(paint.jpeg);
-    opacity: 50px;
+
+
+
+
 
 
 }
