@@ -1,5 +1,6 @@
 h1,h2,h3,h4{
     background-color: yellow;
+    opacity: 1.2;
     border-style: solid;
     border-radius:50px ;
     opacity:4 percent;
@@ -38,8 +39,6 @@ flex-direction: column;}
     float: left;
     flex-direction: column;
 }
-
-.why{background-color: rgb(51, 83, 245);}
 
 
 
