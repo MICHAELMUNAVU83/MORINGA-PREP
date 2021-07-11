@@ -1,6 +1,6 @@
 h1,h2,h3,h4,h5{
-    background-color: yellow;
-    opacity: 1.2;
+    background-color: rgb(97, 97, 204);
+    opacity: 1.0;
     border-style: solid;
     border-radius:50px ;
     opacity:4 percent;
@@ -9,6 +9,8 @@ h1,h2,h3,h4,h5{
     -moz-border-radius:50px ;
     -ms-border-radius:50px ;
     -o-border-radius:50px ;
+    
+    color: white;
 }
 head{font-size: 50px;}
 
