@@ -1,4 +1,4 @@
-h1,h2,h3,h4{
+h1,h2,h3,h4,h5{
     background-color: yellow;
     opacity: 1.2;
     border-style: solid;
@@ -21,20 +21,31 @@ p{ font-family: sans-serif;
 
 }
 
+
+
 .int{float: left;}
 
 
-.foot{float: right;}
+    
 
-.interests{ margin: 20px;
+
+
+.foot{float: right;
+    padding-bottom: 10px;
+
+}
+ 
+
+.team{
+
+    float: right;
+    flex-direction: column;
+    padding-left: 30px;
+    padding-top: 10px;
 
 
 
 }
-.bukayos{ float:right;
-
-flex-direction: column;}
-
 .cards{
     float: left;
     flex-direction: column;
@@ -46,16 +57,13 @@ flex-direction: column;}
 
 
 
-}
 
 
 
 
 
 
-.background{padding-bottom: 15px;
-    background-color: plum;
-    opacity: 100px;
+
 
 
 }
